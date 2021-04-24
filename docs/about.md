@@ -5,7 +5,7 @@ description: |
 ---
 
 <ul>
-    {% for language in site.languages %}
+    {% for language in site.docs.about %}
         <li>
             <h2>
                 <a href="{{ language.url | relative_url }}">

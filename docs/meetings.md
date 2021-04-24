@@ -5,8 +5,8 @@ description: What you need to make a static site that runs locally and on GitHub
 
 This page showcases how to list items in a specific collection.
 
-<ul>
-    {% for tool in site.tools %}
+<ul class=>
+    {% for tool in site.docs.meetings %}
         <li>
             <h2>
                 <a href="{{ tool.url | relative_url }}">
