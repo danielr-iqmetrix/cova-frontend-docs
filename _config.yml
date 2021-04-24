@@ -11,7 +11,7 @@ rss: RSS
 ### Build settings ###
 
 url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+baseurl: /cova-frontend-docs
 
 permalink: pretty
 
@@ -34,7 +34,6 @@ defaults:
       layout: page
 
 exclude:
-  - docs/
   - vendor/
   - Gemfile
   - Gemfile.lock
