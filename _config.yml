@@ -1,6 +1,6 @@
 ### Site metadata ###
 
-title: Jekyll Blog Demo
+title: Cova Frontend Docs
 description: "Base for a static website blog - built with Jekyll and the default theme"
 
 ### Build settings ###
@@ -30,6 +30,7 @@ defaults:
 
 exclude:
   - vendor/
+  - 
   - Gemfile
   - Gemfile.lock
   - LICENSE
