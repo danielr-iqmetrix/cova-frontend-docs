@@ -10,7 +10,7 @@ rss: RSS
 
 ### Build settings ###
 
-url: https://michaelcurrin.github.io
+url: https://danielr-iqmetrix.github.io
 baseurl: /cova-frontend-docs
 
 permalink: pretty
